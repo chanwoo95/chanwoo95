@@ -7,7 +7,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)  
-![Spring](https://img.shields.io/badge/{Spring}-{#6DB33F}?style={flat-square}&logo={Spring}&logoColor={white})
+![Spring](https://img.shields.io/badge/Spring-{#6DB33F}?style={flat-square}&logo={spring}&logoColor={white})
 
 
 
